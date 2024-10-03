@@ -11,4 +11,4 @@ React Native
 
 <h2>Ekran Gifi</h2>
 
-![](contextAPI.mp4)
+![](contextAPI.gif)
